@@ -159,6 +159,14 @@ Use the generated metrics files to report the actual results after running the c
 - Add plots and metrics generated from the final, verified code run.
 - Evaluate against independent operational data if suitable data become available.
 
+## Results
+
+### 1. ML Model Accuracy
+![ML Model Accuracy](results/01_ml_accuracy.png)
+
+### 2. ML Learning Speed
+![ML Learning Speed](results/03_ml_learning_speed.png)
+
 ## Citation
 
 If you build on this work, cite the associated dissertation or research paper once its final public bibliographic details are available. Do not invent a DOI, publication venue, or citation.
