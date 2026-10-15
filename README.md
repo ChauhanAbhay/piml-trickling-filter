@@ -161,11 +161,13 @@ Use the generated metrics files to report the actual results after running the c
 
 ## Results
 
-### 1. ML Model Accuracy
-![ML Model Accuracy](results/01_ml_accuracy.png)
 
-### 2. ML Learning Speed
-![ML Learning Speed](results/03_ml_learning_speed.png)
+### ML Model Accuracy
+![ML Model Accuracy](./01_ml_accuracy.png)
+
+### ML Learning Speed
+![ML Learning Speed](./03_ml_learning_speed.png)
+
 
 ## Citation
 
